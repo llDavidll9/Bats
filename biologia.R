@@ -1,5 +1,5 @@
 library(readxl)
-datos<-read_xlsx("/Users/davidesteban/Downloads/RepBat_recurso (1).xlsx")
+datos<-read_xlsx("RepBat_recurso (1).xlsx")
 #View(datos)
 library(dplyr)
 library(gamlss)
